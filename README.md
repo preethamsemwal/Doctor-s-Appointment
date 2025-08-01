@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+
+Check out the live app here: [Healthcare Appointment Booking App](https://doctorappopreet.ccbp.tech/appointment)
+
 # 🏥 Healthcare Appointment Booking App
 
 A **responsive single-page application (SPA)** built with **React** that enables users to **browse doctors**, **view detailed profiles**, and **book healthcare appointments online**.  
