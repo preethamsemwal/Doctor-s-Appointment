@@ -81,5 +81,3 @@ Appointments are stored in-memory using the **React Context API**, providing a s
 
 ---
 
-## 📁 Folder Structure (Example)
-
