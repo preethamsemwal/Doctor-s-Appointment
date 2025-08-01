@@ -1,6 +1,7 @@
 import {useState, useContext} from 'react'
 import {useParams, useNavigate} from 'react-router-dom'
 import {AppointmentContext} from '../context/AppointmentContext'
+import doctors from '../data/doctors.json'
 import '../styles/BookAppointment.css'
 
 function BookAppointment() {
@@ -16,7 +17,16 @@ function BookAppointment() {
 
   const handleSubmit = e => {
     e.preventDefault()
-    const appointment = {...formData, doctorId: id}
+
+    const selectedDoctor = doctors.find(doc => doc.id === id)
+    const appointment = {
+      ...formData,
+      doctorId: id,
+      doctorName: selectedDoctor.name,
+      specialization: selectedDoctor.specialization,
+      image: selectedDoctor.image,
+    }
+
     addAppointment(appointment)
     navigate('/confirmation', {state: appointment})
   }

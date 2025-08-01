@@ -6,29 +6,34 @@ function Appointments() {
   const {appointments} = useContext(AppointmentContext)
 
   return (
-    <div className="appointments">
-      <h2>Booked Appointments</h2>
+    <div className="appointments-page">
+      <h2>🗓️ Your Booked Appointments</h2>
       {appointments.length === 0 ? (
-        <p>No appointments booked yet.</p>
+        <p className="empty-message">
+          You have not booked any appointments yet.
+        </p>
       ) : (
-        <ul>
+        <div className="appointment-list">
           {appointments.map(appt => (
-            <li className="appointment-card">
+            <div className="appointment-card">
+              <div className="doctor-info">
+                <img
+                  src={appt.image}
+                  alt={appt.doctorName}
+                  className="doctor-avatar"
+                />
+                <div>
+                  <h3>{appt.doctorName}</h3>
+                  <p className="specialization">{appt.specialization}</p>
+                </div>
+              </div>
               <p>
-                <strong>Name:</strong> {appt.name}
+                <strong>Appointment Date & Time:</strong>{' '}
+                {new Date(appt.datetime).toLocaleString()}
               </p>
-              <p>
-                <strong>Email:</strong> {appt.email}
-              </p>
-              <p>
-                <strong>Date & Time:</strong> {appt.datetime}
-              </p>
-              <p>
-                <strong>Doctor ID:</strong> {appt.doctorId}
-              </p>
-            </li>
+            </div>
           ))}
-        </ul>
+        </div>
       )}
     </div>
   )
