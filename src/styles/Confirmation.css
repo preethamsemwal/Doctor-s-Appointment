@@ -1,0 +1,44 @@
+.confirmation {
+  background: #ffffff;
+  padding: 2rem;
+  max-width: 500px;
+  margin: 3rem auto;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+  transition: box-shadow 0.3s ease;
+}
+
+.confirmation:hover {
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.12);
+}
+
+.confirmation h2 {
+  color: #008080;
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.confirmation p {
+  font-size: 1rem;
+  color: #333;
+  margin: 0.5rem 0;
+}
+
+.confirmation a {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #008080;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.confirmation a:hover {
+  background-color: #006666;
+  transform: scale(1.03);
+}

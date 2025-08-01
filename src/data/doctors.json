@@ -1,0 +1,297 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Ayesha Kapoor",
+    "specialization": "Cardiologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047868/f13_fztyes.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 10:00",
+      "2025-08-03 14:00"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rohan Mehta",
+    "specialization": "Dermatologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048417/m15_ivdw4c.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "3",
+    "name": "Dr. Neha Sharma",
+    "specialization": "Neurologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047868/f15_dm3xva.jpg",
+    "status": "Available Tomorrow",
+    "schedule": [
+      "2025-08-03 11:00",
+      "2025-08-03 15:30"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dr. Vivek Joshi",
+    "specialization": "Orthopedic",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048416/m14_kowds8.jpg",
+    "status": "Available This Week",
+    "schedule": [
+      "2025-08-05 09:00",
+      "2025-08-06 12:00"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Dr. Priya Reddy",
+    "specialization": "Pediatrician",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047868/f14_ktzsga.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 13:00",
+      "2025-08-02 17:30"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Dr. Karan Sethi",
+    "specialization": "General Physician",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048416/m13_lnyizz.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "7",
+    "name": "Dr. Sakshi Nair",
+    "specialization": "Gynecologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047867/f12_ztvg7h.jpg",
+    "status": "Available Tomorrow",
+    "schedule": [
+      "2025-08-03 10:30",
+      "2025-08-03 16:00"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Dr. Ankit Verma",
+    "specialization": "ENT Specialist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048415/m11_obhpjr.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 09:30",
+      "2025-08-02 14:00"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Dr. Tanya Singh",
+    "specialization": "Psychiatrist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047867/f7_eteutp.jpg",
+    "status": "Available Next Week",
+    "schedule": [
+      "2025-08-07 11:00"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Dr. Rahul Deshmukh",
+    "specialization": "Dentist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048416/m12_n07hg3.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 16:30"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Dr. Swati Patil",
+    "specialization": "Dermatologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047867/f11_c5a5mp.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "12",
+    "name": "Dr. Arjun Iyer",
+    "specialization": "Ophthalmologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048414/m10_z3x5u5.jpg",
+    "status": "Available This Week",
+    "schedule": [
+      "2025-08-06 10:00",
+      "2025-08-08 12:00"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Dr. Manisha Khurana",
+    "specialization": "Gastroenterologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047867/f10_txqwbg.jpg",
+    "status": "Available Tomorrow",
+    "schedule": [
+      "2025-08-03 09:00"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Dr. Naveen Rao",
+    "specialization": "Pulmonologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048405/m8_wi2zw3.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "15",
+    "name": "Dr. Ritu Bansal",
+    "specialization": "Oncologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047867/f8_whvik1.jpg",
+    "status": "Available Next Week",
+    "schedule": [
+      "2025-08-07 14:00",
+      "2025-08-08 10:00"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Dr. Nikhil Jain",
+    "specialization": "Nephrologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048405/m9_aqruti.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 11:00"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Dr. Sonal Agarwal",
+    "specialization": "Radiologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047867/f9_cqkc58.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "18",
+    "name": "Dr. Kunal Bhatt",
+    "specialization": "Endocrinologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048405/m5_blv25r.jpg",
+    "status": "Available Tomorrow",
+    "schedule": [
+      "2025-08-03 12:00"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Dr. Sheetal Desai",
+    "specialization": "Hematologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047866/f4_sdlug0.jpg",
+    "status": "Available This Week",
+    "schedule": [
+      "2025-08-04 09:30",
+      "2025-08-05 11:00"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Dr. Abhay Malhotra",
+    "specialization": "Urologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048405/m6_c4re8c.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 15:00"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Dr. Megha Tyagi",
+    "specialization": "Allergist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047866/f2_c0v0cm.jpg",
+    "status": "Available Next Week",
+    "schedule": [
+      "2025-08-07 16:00"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Dr. Harshita Menon",
+    "specialization": "Immunologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047866/f5_ormjrl.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "23",
+    "name": "Dr. Rajeev Chawla",
+    "specialization": "Rheumatologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048405/m7_taezeh.jpg",
+    "status": "Available Tomorrow",
+    "schedule": [
+      "2025-08-03 14:30"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Dr. Kavita Joshi",
+    "specialization": "Pathologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047866/f1_lhs2ey.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 08:30",
+      "2025-08-02 13:00"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Dr. Rakesh Pillai",
+    "specialization": "Anesthesiologist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048404/m3_ezwgpg.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "26",
+    "name": "Dr. Sneha Kulkarni",
+    "specialization": "Geneticist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047866/f3_g8scsm.jpg",
+    "status": "Available This Week",
+    "schedule": [
+      "2025-08-06 09:00"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Dr. Devansh Kapoor",
+    "specialization": "Infectious Disease",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048404/m4_y40bgc.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 12:00"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Dr. Ishita Arora",
+    "specialization": "Occupational Therapist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754047866/f6_llkwnb.jpg",
+    "status": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": "29",
+    "name": "Dr. Sandeep Ghosh",
+    "specialization": "Speech Therapist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048404/m2_ex4pkd.jpg",
+    "status": "Available Tomorrow",
+    "schedule": [
+      "2025-08-03 10:00"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Dr. Iqbal Farooq",
+    "specialization": "Physiotherapist",
+    "image": "https://res.cloudinary.com/djmq2eiby/image/upload/v1754048404/m1_ypmmjx.jpg",
+    "status": "Available Today",
+    "schedule": [
+      "2025-08-02 09:00",
+      "2025-08-02 17:00"
+    ]
+  }
+]
