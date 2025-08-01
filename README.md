@@ -1,6 +1,6 @@
 ## 🔗 Live Demo
 
-Check out the live app here: [Healthcare Appointment Booking App](https://doctorappopreet.ccbp.tech/appointment)
+Check out the live app here: [Healthcare Appointment Booking App](https://doctorappopreet.ccbp.tech/)
 
 # 🏥 Healthcare Appointment Booking App
 
